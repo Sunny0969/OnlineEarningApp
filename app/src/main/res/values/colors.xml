@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="material_dynamic_primary1">#FF018786</color>
+    <color name="material_dynamic_primary2">#FF015957</color>
+    <color name="material_dynamic_primary3">#FF003F46</color>
+    <color name="material_dynamic_primary4">#FF002E3B</color>
+    <color name="material_dynamic_primary5">#FF002529</color>
+    <color name="material_dynamic_primary6">#7fd85a</color>
+
+
+
+
+
+</resources>

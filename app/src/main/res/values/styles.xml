@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/material_dynamic_primary1</item>
+        <item name="colorPrimaryDark">@color/material_dynamic_primary3</item>
+        <item name="colorAccent">@color/material_dynamic_primary5</item>
+    </style>
+    <style name="AppTheme.main" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#DF90F1</item>
+        <item name="colorPrimaryDark">#DB6Bf4</item>
+        <item name="colorAccent">#3F51B5</item>
+    </style>
+</resources>
